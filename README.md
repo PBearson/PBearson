@@ -1,10 +1,6 @@
 ### Welcome to my Profile!
 
-I am a PhD candidate studying Computer Science at the University of Central Florida. My focus is in software security, especially as it relates to Internet of Things (IoT) devices and protocols, building automation systems (BAS), and cloud-based servers. 
-
-I have published some papers that focus on Microcontroller (MCU) - grade IoT security attacks and defenses, integration with low-cost crypto coprocessing units, modified memory corruption attacks on modern hardware platforms, and introducing state-of-the-art IoT security education to academia. 
-
-Recently, my focus and interests have shifted to dynamic analysis, especially fuzz testing. My newest work fuzzes the MQTT protocol using generation-guided and mutation-guided techniques, and the result of this effort was the discovery of 6 zero-day vulnerabilities in popular MQTT implementations, including 2 CVEs.
+I am a security researcher at Sandia National Laboratories. I received my PhD in Computer Science from the University of Central Florida, where my focus was in software security, especially as it relates to Internet of Things (IoT) devices and protocols, building automation systems (BAS), and cloud-based servers. 
 
 <!--
 **PBearson/PBearson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
